@@ -1,0 +1,77 @@
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient for psychedelic effect -->
+    <linearGradient id="psychedelic-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF4E9F;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B7BCC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF4E9F;stop-opacity:1" />
+    </linearGradient>
+   
+    <!-- Gradient for consistent text color -->
+    <linearGradient id="consistent-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF5722; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFC107; stop-opacity:1" />
+    </linearGradient>
+   
+    <!-- Gradient for typewriter text -->
+    <linearGradient id="typewriter-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color: #4CAF50; stop-opacity: 1" />
+      <stop offset="100%" style="stop-color: #8BC34A; stop-opacity: 1" />
+    </linearGradient>
+   
+    <!-- Define path for typewriter effect -->
+    <path id="typewriter-path" d="M0,70 H600" />
+   
+    <!-- Animation for psychedelic effect -->
+    <animateTransform
+      id="psychedelic-animate"
+      attributeName="transform"
+      type="rotate"
+      from="0 300 75"
+      to="360 300 75"
+      dur="10s"
+      repeatCount="indefinite" />
+   
+    <!-- Pulsating animation for Sean -->
+    <animateTransform
+      id="pulsate-animate"
+      attributeName="transform"
+      type="scale"
+      values="1;1.2;1"
+      keyTimes="0;0.5;1"
+      dur="1.5s"
+      repeatCount="indefinite" />
+  </defs>
+
+  <!-- Centered and waving text with consistent gradient -->
+  <text x="50%" y="60" font-family="'Poppins', sans-serif" font-size="16" fill="black" text-anchor="middle">
+    ✨ Hey! It's me, ✨
+    <animate attributeName="y" values="60;50;60" dur="1s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Centered and typewriter effect text with gradient -->
+  <text x="50%" y="100" font-family="'Poppins', sans-serif" text-anchor="middle">
+    <textPath href="#typewriter-path">
+      <tspan x="50%" dy="1.2em" font-size="15" fill="black"></tspan>
+      <tspan x="50%" dy="1.2em" font-size="42" fill="url(#psychedelic-gradient)" font-weight="bold"
+             transform="scale(1)">
+        Sean 🌊
+        <!-- Applying the pulsate animation directly to this <tspan> element -->
+        <animateTransform
+          attributeName="transform"
+          type="scale"
+          values="1;1.2;1"
+          keyTimes="0;0.5;1"
+          dur="1.5s"
+          repeatCount="indefinite" />
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="0 300 120"
+          to="360 300 120"
+          dur="10s"
+          repeatCount="indefinite" />
+      </tspan>
+    </textPath>
+  </text>
+</svg>
