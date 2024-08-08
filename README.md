@@ -1,0 +1,19 @@
+![sdverano-github-header](https://github.com/user-attachments/assets/ed42724c-9abd-4315-8298-7899b4f64154)![classroom-nostalgic-by-monorisu](https://github.com/user-attachments/assets/15b0fa43-d68e-40b8-8e3e-c04914ba290c)
+
+![Uploading sdverano-github-header.svg…]()
+
+- 👋 Hi, I’m @seanverano
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---![seanverano-github-header](https://github.com/user-attachments/assets/d0cbcf7a-7423-4647-80de-98eab56171db)
+
+seanverano/seanverano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+WIP WIP WIP
