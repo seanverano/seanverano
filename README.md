@@ -5,19 +5,29 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/seanverano/seanverano/main/seanverano-header.svg" alt="Description" width="600"/>
 </p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h3 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the tech space.
+    </h3>
 <hr>
-- 👋 Hi, I’m @seanverano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---![seanverano-github-header](https://github.com/user-attachments/assets/d0cbcf7a-7423-4647-80de-98eab56171db)
-
-seanverano/seanverano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center">
+  🔭 Currently seeking opportunities as an entry-level developer or junior web/software developer. <br><br>
+  🌱 Actively learning Java, Python, and MySQL to build a solid foundation in development. <br><br>
+  💬 Ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
+</p>
+<details>
+<summary align="center"><b>BONUS FACT</b></summary>
+    <p align="center">😄 The only subject I failed in college was Computer Programming 2, but that challenge sparked my transition into the tech industry. 
+        <i><span style="font-size: larger;"><br>What doesn’t kill you makes you stronger, right?</span></i>
+    </p>
+</details>
+<hr>
+<div style="margin-top: 30px;">
+  <h2 align="left" style="font-size: 24px;">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
+</div>
+      WIP WIP WIP
+<hr>
+<div style="margin-top: 30px;">
+  <h2 align="left" style="font-size: 24px;">🛠️ 📊 My Stats 📊 🛠️</h2>
+</div>
 WIP WIP WIP
