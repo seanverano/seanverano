@@ -7,7 +7,7 @@
 </p>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the tech space.
+    <h4 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the tech space.
     </h3>
 <hr>
 <p align="center">
@@ -23,11 +23,14 @@
 </details>
 <hr>
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">🛠️ Languages, Frameworks, and Tools 🛠️</h2>
+  <h2 align="left" style="font-size: 24px;">🛠️ Technologies I Use 🛠️</h2>
 </div>
       WIP WIP WIP
 <hr>
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">🛠️ 📊 My Stats 📊 🛠️</h2>
+  <h2 align="left" style="font-size: 24px;">📩 Get in Touch 📩</h2>
+</div>
+WIP WIP WIP<div style="margin-top: 30px;">
+  <h2 align="left" style="font-size: 24px;">📉 Key Metrics 📈 /h2>
 </div>
 WIP WIP WIP
