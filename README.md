@@ -1,7 +1,11 @@
-![sdverano-github-header](https://github.com/user-attachments/assets/ed42724c-9abd-4315-8298-7899b4f64154)![classroom-nostalgic-by-monorisu](https://github.com/user-attachments/assets/15b0fa43-d68e-40b8-8e3e-c04914ba290c)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/7df243b6-1712-4a33-9f5f-55dae2f9aa5a" alt="Coding" style="max-width: 100%; height: auto;">
+</div>
 
-![Uploading sdverano-github-header.svg…]()
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seanverano/seanverano/main/seanverano-header.svg" alt="Description" width="600"/>
+</p>
+<hr>
 - 👋 Hi, I’m @seanverano
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
