@@ -7,7 +7,7 @@
 </p>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h4 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the tech space.
+    <h4 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the digital realm.
     </h3>
 <hr>
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 <details>
 <summary align="center"><b>BONUS FACT</b></summary>
-    <p align="center">😄 The only subject I failed in college was Computer Programming 2, but that challenge sparked my transition into the tech industry. 
+    <p align="center">😄 When I was an engineering student in college, the only subject that I failed was related to computer programming, but that setback motivated my transition into the tech sector. 
         <i><span style="font-size: larger;"><br>What doesn’t kill you makes you stronger, right?</span></i>
     </p>
 </details>
@@ -31,6 +31,6 @@
   <h2 align="left" style="font-size: 24px;">📩 Get in Touch 📩</h2>
 </div>
 WIP WIP WIP<div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">📉 Key Metrics 📈 /h2>
+  <h2 align="left" style="font-size: 24px;">📉 Key Metrics 📈 </h2>
 </div>
 WIP WIP WIP
