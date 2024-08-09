@@ -20,7 +20,7 @@
 </p>
 <details>
 <summary align="center"><b>BONUS FACT</b></summary>
-    <p align="center">😄 When I was an engineering student in college, the only subject that I failed was related to computer programming, but that setback motivated my transition into the tech sector. 
+    <p align="center">😄 When I was an engineering student in college, the only subject that I failed was related to computer programming, but that roadblock motivated my transition into the digital realm. 
         <i><span style="font-size: larger;"><br><br>What doesn’t kill you makes you stronger, right?</span></i>
 </details>
 </p>
@@ -28,14 +28,14 @@
 <hr>
 
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">what’s in my tech toolbox? 🛠️</h2>
+  <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/tools.gif" alt="Header Decoration 1" height="30"/> what’s in my tech toolbox?</h2>
 </div>
       WIP WIP WIP
       
 <hr>
 
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">your thoughts and ideas are welcome—let’s talk! 📩</h2>
+  <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/contact.gif" alt="Header Decoration 2" height="40"/>your thoughts and ideas are welcome—let’s talk!</h2>
     <p align="center">
   <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" height="60" />
@@ -55,7 +55,7 @@
 <hr>
 
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">a newbie’s GitHub stats: my growth so far 📈</h2>
+  <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/stats.gif" alt="Header Decoration 3" height="30"/> a newbie’s GitHub stats: my growth so far </h2>
  <div align="center" style="margin: 20px;">
   <table align="center" style="border-collapse: collapse;">
     <tr>
@@ -71,7 +71,9 @@
     <tr>
       <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seanverano&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
+          <p align="center"> <img src="https://komarev.com/ghpvc/?username=seanverano&label=Profile%20views&color=0e75b6&style=flat" alt="seanverano" /> </p>
       </td>
     </tr>
   </table>
 </div>
+
