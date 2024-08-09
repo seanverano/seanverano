@@ -29,9 +29,21 @@
 
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/tools.gif" alt="Header Decoration 1" height="30"/> what’s in my tech toolbox?</h2>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="30" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="30" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="100" height="30" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="100" height="30" alt="C++" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="30" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100" height="30" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="100" height="30" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" height="30" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100" height="30" alt="GIT" />
+    </p>
 </div>
-      WIP WIP WIP
-      
+
 <hr>
 
 <div style="margin-top: 30px;">
@@ -71,9 +83,9 @@
     <tr>
       <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seanverano&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
-          <p align="center"> <img src="https://komarev.com/ghpvc/?username=seanverano&label=Profile%20views&color=0e75b6&style=flat" alt="seanverano" /> </p>
       </td>
     </tr>
   </table>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=seanverano&label=Profile%20views&color=0e75b6&style=flat" alt="seanverano" /> </p>
 
