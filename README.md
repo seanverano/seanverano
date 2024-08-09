@@ -7,7 +7,7 @@
 </p>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h4 align="center">A dedicated engineer from the Philippines, committed to learning something new every day and constantly innovating in the digital realm.
+    <h3 align="center">A dedicated engineer from the Philippines, always learning and innovating—like a classroom where knowledge and skills grow daily.
     </h3>
 <hr>
 <p align="center">
