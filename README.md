@@ -29,7 +29,7 @@
 
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/tools.gif" alt="Header Decoration 1" height="30"/> what’s in my tech toolbox?</h2>
-    <p>
+    <p align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="30" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="30" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="30" alt="JavaScript" />
