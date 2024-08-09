@@ -23,14 +23,28 @@
 </details>
 <hr>
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">🛠️ Technologies I Use 🛠️</h2>
+  <h2 align="left" style="font-size: 24px;">What’s in my Tech Toolbox? 🛠️</h2>
 </div>
       WIP WIP WIP
 <hr>
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">📩 Get in Touch 📩</h2>
+  <h2 align="left" style="font-size: 24px;">Your thoughts and ideas are welcome—let’s talk! 📩</h2>
+    <p align="center">
+  <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" height="60" />
+  </a>
+  <a href="https://www.linkedin.com/in/sdverano/" target="_blank" style="text-decoration: none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="60" />
+  </a>
+  <a href="mailto:verano.seandustin@gmail.com" target="_blank" style="text-decoration: none;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" height="60" />
+  </a>
+  <a href="wipwipwip" target="_blank" style="text-decoration: none;">
+    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="200" height="60" />
+  </a>
+</p>
 </div><hr>
 WIP WIP WIP<div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">📉 Key Metrics 📈 </h2>
+  <h2 align="left" style="font-size: 24px;">A newbie’s GitHub stats: My growth so far 📈 </h2>
 </div><hr>
 WIP WIP WIP
