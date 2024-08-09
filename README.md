@@ -5,11 +5,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/seanverano/seanverano/main/seanverano-header.svg" alt="Description" width="600"/>
 </p>
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <h3 align="center">A dedicated engineer from the Philippines, always learning and innovating—like a classroom where knowledge and skills grow daily.
     </h3>
+      
 <hr>
+      
 <p align="center">
   🔭 Currently seeking opportunities as an entry-level developer or junior web/software developer. <br><br>
   🌱 Actively learning Java, Python, and MySQL to build a solid foundation in development. <br><br>
@@ -19,16 +22,20 @@
 <summary align="center"><b>BONUS FACT</b></summary>
     <p align="center">😄 When I was an engineering student in college, the only subject that I failed was related to computer programming, but that setback motivated my transition into the tech sector. 
         <i><span style="font-size: larger;"><br><br>What doesn’t kill you makes you stronger, right?</span></i>
-    </p>
 </details>
+</p>
+
 <hr>
+
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">What’s in my Tech Toolbox? 🛠️</h2>
+  <h2 align="left" style="font-size: 24px;">what’s in my tech toolbox? 🛠️</h2>
 </div>
       WIP WIP WIP
+      
 <hr>
+
 <div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">Your thoughts and ideas are welcome—let’s talk! 📩</h2>
+  <h2 align="left" style="font-size: 24px;">your thoughts and ideas are welcome—let’s talk! 📩</h2>
     <p align="center">
   <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" height="60" />
@@ -43,8 +50,28 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="200" height="60" />
   </a>
 </p>
-</div><hr>
-WIP WIP WIP<div style="margin-top: 30px;">
-  <h2 align="left" style="font-size: 24px;">A newbie’s GitHub stats: My growth so far 📈 </h2>
-</div><hr>
-WIP WIP WIP
+</div>
+
+<hr>
+
+<div style="margin-top: 30px;">
+  <h2 align="left" style="font-size: 24px;">a newbie’s GitHub stats: my growth so far 📈</h2>
+ <div align="center" style="margin: 20px;">
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=seanverano&show_icons=true&theme=radical&locale=en" alt="SDV GH Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin: 20px;">
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seanverano&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
