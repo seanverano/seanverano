@@ -18,7 +18,7 @@
 <details>
 <summary align="center"><b>BONUS FACT</b></summary>
     <p align="center">😄 When I was an engineering student in college, the only subject that I failed was related to computer programming, but that setback motivated my transition into the tech sector. 
-        <i><span style="font-size: larger;"><br>What doesn’t kill you makes you stronger, right?</span></i>
+        <i><span style="font-size: larger;"><br><br>What doesn’t kill you makes you stronger, right?</span></i>
     </p>
 </details>
 <hr>
@@ -29,8 +29,8 @@
 <hr>
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;">📩 Get in Touch 📩</h2>
-</div>
+</div><hr>
 WIP WIP WIP<div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;">📉 Key Metrics 📈 </h2>
-</div>
+</div><hr>
 WIP WIP WIP
