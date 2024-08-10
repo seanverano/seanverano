@@ -14,7 +14,8 @@
 <hr>
       
 <p align="center">
-  🔭 Currently seeking opportunities as an entry-level developer or junior web/software developer. <br><br>
+  🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer. <br><br>
+  🏗️ Currently working on [Age Calculator App](https://github.com/seanverano/age-calculator-app)! <br><br>
   🌱 Actively learning Java, Python, and MySQL to build a solid foundation in development. <br><br>
   💬 Ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
