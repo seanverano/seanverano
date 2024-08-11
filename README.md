@@ -15,7 +15,7 @@
       
 <p align="center">
   🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer <br><br>
-  🏗️ also currently working on <a href="https://github.com/seanverano/ageinpaws-app" target="_blank">Age in Paws: Calculator and Converter App</a>  <br><br>
+  🏗️ also currently working on <a href="https://github.com/seanverano/age-in-paws-app" target="_blank">Age in Paws: Calculator and Converter App</a>  <br><br>
   🌱 while actively learning Java, Python, and MySQL to build a solid foundation in development <br><br>
   💬 ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
@@ -31,7 +31,7 @@
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/tools.gif" alt="Header Decoration 1" height="30"/> what’s in my tech toolbox?</h2>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-        wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
