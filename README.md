@@ -31,11 +31,11 @@
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/tools.gif" alt="Header Decoration 1" height="30"/> what’s in my tech toolbox?</h2>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -44,6 +44,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
     </p>
 </div>
 
@@ -52,9 +53,6 @@
 <div style="margin-top: 30px;">
   <h2 align="left" style="font-size: 24px;"><img src="https://raw.githubusercontent.com/seanverano/seanverano/main/contact.gif" alt="Header Decoration 2" height="40"/>your thoughts and ideas are welcome—let’s talk!</h2>
     <p align="center">
-  <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" height="60" />
-  </a>
   <a href="https://www.linkedin.com/in/sdverano/" target="_blank" style="text-decoration: none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="60" />
   </a>
@@ -62,8 +60,15 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" height="60" />
   </a>
   <a href="wipwipwip" target="_blank" style="text-decoration: none;">
-    <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="200" height="60" />
+    <img alt="Portfolio Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="200" height="60" />
   </a>
+  <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="200" height="60" />
+  </a>
+  <a href="https://gitlab.com/DazSummers" target="_blank" style="text-decoration: none;">
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="200" height="60" />
+  </a>
+    
 </p>
 </div>
 
