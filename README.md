@@ -15,7 +15,7 @@
       
 <p align="center">
   🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer <br><br>
-  🏗️ also currently working on <a href="https://github.com/seanverano/age-in-paws-app" target="_blank">Age in Paws: Calculator and Converter App</a>  <br><br>
+  🏗️ also currently working on <a href="https://github.com/seanverano/daily-reboot-chrome" target="_blank">Daily Reboot: Chrome Extension/App</a>  <br><br>
   🌱 while actively learning Java, Python, and MySQL to build a solid foundation in development <br><br>
   💬 ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
