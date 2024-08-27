@@ -8,7 +8,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3 align="center">As a full-stack developer , I'm always in the classroom of life—where knowledge, skills, and innovation are in a constant state of growth.
+    <h3 align="center">As a full-stack developer, I'm always in the classroom of life—where knowledge, skills, and innovation are in a constant state of growth.
     </h3>
       
 <hr>
