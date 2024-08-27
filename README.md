@@ -8,15 +8,15 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3 align="center">As an engineer, I'm always in the classroom of life—where knowledge, skills, and innovation are in a constant state of growth.
+    <h3 align="center">As a full-stack developer , I'm always in the classroom of life—where knowledge, skills, and innovation are in a constant state of growth.
     </h3>
       
 <hr>
       
 <p align="center">
   🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer <br><br>
+    🌱 while actively learning C#, .NET and Python to build a solid foundation in development <br><br>
   🏗️ also currently working on <a href="https://github.com/seanverano/daily-reboot-chrome" target="_blank">Daily Reboot: Chrome Extension/App</a>  <br><br>
-  🌱 while actively learning C#, .NET and Python to build a solid foundation in development <br><br>
   💬 ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
 <details>
