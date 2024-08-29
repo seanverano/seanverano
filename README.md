@@ -16,7 +16,7 @@
 <p align="center">
   🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer <br><br>
     🌱 while actively learning C#, .NET and Python to build a solid foundation in development <br><br>
-  🏗️ also currently working on <a href="https://github.com/seanverano/daily-reboot-chrome" target="_blank">Daily Reboot: Chrome Extension/App</a>  <br><br>
+  🏗️ also currently working on <a href="https://github.com/seanverano/sdverano-portfolio" target="_blank">Portfolio Website </a>  <br><br>
   💬 ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
 <details>
