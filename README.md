@@ -59,7 +59,7 @@
   <a href="mailto:verano.seandustin@gmail.com" target="_blank" style="text-decoration: none;">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" height="60" />
   </a>
-  <a href="wipwipwip" target="_blank" style="text-decoration: none;">
+  <a href="https://seanverano.vercel.app/" target="_blank" style="text-decoration: none;">
     <img alt="Portfolio Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="200" height="60" />
   </a>
   <a href="https://github.com/seanverano" target="_blank" style="text-decoration: none;">
