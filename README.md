@@ -14,9 +14,9 @@
 <hr>
       
 <p align="center">
-  🚀 In pursuit of seeking opportunities as an entry-level developer or junior web/software developer <br><br>
+  🚀 In pursuit of seeking opportunities as a junior web/software developer <br><br>
     🌱 while actively learning C# and Python to build a solid foundation in development <br><br>
-  🏗️ also currently working on <a href="https://github.com/seanverano/daily-reboot" target="_blank">Daily Reboot </a>  <br><br>
+  🏗️ also currently working on <a href="https://github.com/seanverano/daily-reboot" target="_blank">Reboost </a>  <br><br>
   💬 ask me about world history, geopolitics, or anything related to Korean culture – I love discussing diverse topics! <br>
 </p>
 <details>
