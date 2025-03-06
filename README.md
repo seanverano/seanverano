@@ -70,7 +70,7 @@
   <a href="https://gitlab.com/DazSummers" target="_blank" style="text-decoration: none;">
     <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" width="200" height="60" />
   </a>
-  <a href="[https://gitlab.com/DazSummers](https://x.com/_seanverano)" target="_blank" style="text-decoration: none;">
+  <a href="https://x.com/_seanverano" target="_blank" style="text-decoration: none;">
     <img alt="GitLab" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="200" height="60" />
   </a>
 </p>
